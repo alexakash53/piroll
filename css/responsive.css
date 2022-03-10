@@ -1,0 +1,138 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .main-menu ul li {
+        margin-left: 20px;
+    }
+    .single-slider {
+        min-height: 550px;
+    }
+    .pad {
+        padding: 100px 0;
+    }
+    .counter-area {
+        padding: 70px 0;
+    }
+    .counter-icon {
+        padding-right: 16px;
+    }
+    .counter-content h4 {
+        font-size: 10px;
+        margin-top: 3px;
+    }
+    .counter-icon {
+        padding-right: 15px;
+    }
+    .counter-icon i {
+        font-size: 45px;
+    }
+    .single-project a {
+        font-size: 25px;
+    }
+    .service-area {
+        padding: 70px 0 40px 0;
+    }
+    .service-wrapper p {
+        font-size: 14px;
+    }
+    .testimonial-area {
+        padding: 120px 0;
+    }
+    .page-title-area{
+        padding: 90px 0;
+    }
+    .contact-address {
+        margin-bottom: 40px;
+    }
+}
+
+
+/* Extra small Device. */
+@media (max-width: 767px) {
+    .header-area {
+        padding: 6px 0;
+    }
+    .single-slider {
+        min-height: 500px;
+    }
+    .slider-inner h2 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .slider-inner p {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .slider-inner a {
+        padding: 12px 35px;
+    }
+    .section-title {
+        padding: 0 20px;
+    }
+    .skill {
+        padding: 0px 20px;
+    }
+    .counter-area {
+        padding: 70px 0;
+    }
+    .single-counter {
+        margin-bottom: 30px;
+        padding: 0px 15px;
+    }
+    .single-project a {
+        font-size: 30px;
+    }
+    .video-bg {
+        padding: 150px 0;
+        background-position: center;
+    }
+    .service-area {
+        padding: 70px 0 60px 0;
+    }
+    .service-wrapper {
+        padding: 20px 20px;
+    }
+    .testimonial-area {
+        padding: 100px 0;
+    }
+    .testimonial-text p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .contact-area {
+        padding: 70px 0;
+    }
+    .footer-area {
+        padding: 70px 0;
+    }
+    .buy-img {
+        display: none;
+    }
+    .page-title-area{
+        padding: 70px 0;
+    }
+    .page-title h2 {
+        font-size: 32px;
+    }
+    .page-title p {
+        font-size: 12px;
+    }
+}
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+
+}
